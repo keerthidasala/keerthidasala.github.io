@@ -33,11 +33,11 @@ Work experience
   * Mentors:  Dr.  Mike Macdonald, Dr.  Dragan Samardzija
  
 * Graduate Research Assistant
-  * Wireless Research Lab, Indian Institute of ScienceBangalore, IND 
+  * Wireless Research Lab, Indian Institute of Science, Bangalore, IND 
   * Advisor:  Dr.  Ananthanarayanan Chockalingam
   
 * Engineering Intern
-  * Communication Systems group, ISRO Satellite CentreBangalore, IND
+  * Communication Systems group, ISRO Satellite Centre, Bangalore, IND
   * Mentors:  Dr.  Hareesh N K, Dr.  Devadas Shenoy
   
 Key Courses 
@@ -58,7 +58,7 @@ Awards and scholarship
 * Grace Hopper Celebration Scholars Program Scholarship, 2018
 * Texas Instruments Distinguished Student Fellowship, 2017
 * Rice University ECE Graduate Student Fellowship, 2017
-* Recipient of Prof.  S.V.C Aiya Gold medal, IISc, 2016
+* Recipient of Prof. S.V.C Aiya Gold medal, IISc, 2016
 * President A.P.J. Abdul Kalam Post-Graduate Merit Fellowship, Government of India, 2016
 * Recipient of Sri Shanthi Subramanyam Merit Award, ECE, Osmania University
 * Recipient of Prof.V.M.Pandhari Pande Award for academic excellence in ECE,Osmania University
