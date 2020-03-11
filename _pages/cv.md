@@ -60,10 +60,10 @@ Awards and scholarship
 * Rice University ECE Graduate Student Fellowship, 2017
 * Recipient of Prof. S.V.C Aiya Gold medal, IISc, 2016
 * President A.P.J. Abdul Kalam Post-Graduate Merit Fellowship, Government of India, 2016
-* Recipient of Sri Shanthi Subramanyam Merit Award, ECE, Osmania University
-* Recipient of Prof.V.M.Pandhari Pande Award for academic excellence in ECE,Osmania University
-* Received Ministry of Human Resource Development Scholarship, India
+* Sri Shanthi Subramanyam Merit Award, ECE, Osmania University
+* Prof.V.M.Pandhari Pande Award for academic excellence in ECE, Osmania University
+* Ministry of Human Resource Development Scholarship, India
 * Ranked within top 0.01% in Graduate Engineering Entrance Exam (among≈0.5 million students)
 * Ranked within top 0.1% in National Engineering Entrance Exam (among≈0.3 million students)
 * Ranked within top 0.01% in State Engineering Entrance Exam (among≈0.7 million students)
-* Dr. Mudaliar Memorial merit student award for academic excellence in secondary school
+* Dr. Mudaliar memorial merit student award for academic excellence in secondary school
