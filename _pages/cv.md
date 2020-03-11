@@ -14,13 +14,13 @@ Education
 
 **Research Interests**
 ======
-- AI/Deep Learning for Network Management and Control in WLANs, 
-- Wireless Communications andNetworking, 
-- Signal estimation and Detection, 5G, 
-- Information Theory, 
-- Cross-layer MAC-PHY protocoldesign and implementation, 
-- Cellular Networks and High Frequency (mmWave and THz) protocols andapplications, 
-- Communication and Sensing in UAV/drone networks.
+- AI/Deep Learning for Network Management and Control in WLANs 
+- Wireless Communications and Networking
+- Signal estimation and Detection
+- Information Theory
+- Cross-layer MAC-PHY protocoldesign and implementation
+- Cellular Networks and High Frequency (mmWave and THz) protocols and applications 
+- Communication and Sensing in UAV/drone networks
 
 Work experience
 ======
