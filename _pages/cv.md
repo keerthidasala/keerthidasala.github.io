@@ -12,33 +12,42 @@ Education
 * Ph.D. Student in ECE, Rice University, Houston, TX, USA. 2017-Present.
 * M.E. (Research) in Electrical & Communications Engineering Science, IISc, Bangalore, India.
 
-Research Interests
+**Research Interests**
+======
+- AI/Deep Learning for Network Management and Control in WLANs, 
+- Wireless Communications andNetworking, 
+- Signal estimation and Detection, 5G, 
+- Information Theory, 
+- Cross-layer MAC-PHY protocoldesign and implementation, 
+- Cellular Networks and High Frequency (mmWave and THz) protocols andapplications, 
+- Communication and Sensing in UAV/drone networks.
 
 Work experience
 ======
 * Graduate Research Assistant, Aug 2017 - Present
-* Rice Networks Group, Houston, Texas, USA
-* Advisor:  Dr.  Edward Knightly
-* Research Areas: 
-  * The first experimental demonstration of Single RF chain multi-user beamforming in the mmWavespectrum
-  * Scaling Wi-Fi to High Data Rate and High Client Density
-  * Design and implementation of novel user and beam selection strategies in multi-stream mmWavenetworks 
-  * Experimental Evaluations in mmWave Bands
+  * Rice Networks Group, Houston, Texas, USA
+  * Advisor:  Dr.  Edward Knightly
+  * Research: 
+    * The first experimental demonstration of Single RF chain multi-user beamforming in the mmWavespectrum
+    * Scaling Wi-Fi to High Data Rate and High Client Density
+    * Design and implementation of novel user and beam selection strategies in multi-stream mmWavenetworks 
+    * Experimental Evaluations in mmWave Bands
 
 * Research Intern, June 2019 - Aug 2019
-* Wireless Access and Devices Lab, Nokia Bell Labs, New Jersey, USA
-* Mentors:  Dr.  Mike Macdonald, Dr.  Dragan Samardzija
-  * Proposed signal processing techniques for in-band Uplink Time of Arrival Estimation for 5G
-  * Indoor/Outdoor Localization–Achieved localization accuracy upto 1.5m with White Rabbit nanosecond level synchronization       across widely distributed deployed nodes on Bell Labs campus.
+  * Wireless Access and Devices Lab, Nokia Bell Labs, New Jersey, USA
+  * Mentors:  Dr.  Mike Macdonald, Dr.  Dragan Samardzija
+  * Research 
+    * Proposed signal processing techniques for in-band Uplink Time of Arrival Estimation for 5G
+    * Indoor/Outdoor Localization–Achieved localization accuracy upto 1.5m with White Rabbit nanosecond level synchronization       across widely distributed deployed nodes on Bell Labs campus.
 
 * Graduate Research Assistant
-* Wireless Research Lab, Indian Institute of ScienceBangalore, IND 
-* Advisor:  Dr.  Ananthanarayanan Chockalingam
+  * Wireless Research Lab, Indian Institute of ScienceBangalore, IND 
+  * Advisor:  Dr.  Ananthanarayanan Chockalingam
   * Rapid Prototyping Framework for PHY WLAN OFDM Transceiver on Reconfigurable Plat-forms
 
 * Engineering Intern
-* Communication Systems group, ISRO Satellite CentreBangalore, IND
-* Mentors:  Dr.  Hareesh N K, Dr.  Devadas Shenoy
+  * Communication Systems group, ISRO Satellite CentreBangalore, IND
+  * Mentors:  Dr.  Hareesh N K, Dr.  Devadas Shenoy
   
 Key Courses 
 ======
