@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidadte in ECE, Rice University, Houston, TX, USA. 2017-Present.
+* Ph.D. Student in ECE, Rice University, Houston, TX, USA. 2017-Present.
 * M.E. (Research) in Electrical & Communications Engineering Science, IISc, Bangalore, India.
 
 Research Interests
