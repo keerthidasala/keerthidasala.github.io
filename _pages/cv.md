@@ -22,14 +22,14 @@ Education
 - Cellular Networks and High Frequency (mmWave and THz) protocols and applications 
 - Communication and Sensing in UAV/drone networks
 
-Work experience
+Research experience
 ======
 * Graduate Research Assistant, Aug 2017 - Present
   * Rice Networks Group, Houston, Texas, USA
   * Advisor:  Dr.  Edward Knightly
 
 * Research Intern, June 2019 - Aug 2019
-  * Wireless Access and Devices Lab, Nokia Bell Labs, New Jersey, USA
+  * Wireless Access and Devices Lab, Nokia Bell Labs, Crawford Hill, New Jersey, USA
   * Mentors:  Dr.  Mike Macdonald, Dr.  Dragan Samardzija
  
 * Graduate Research Assistant
