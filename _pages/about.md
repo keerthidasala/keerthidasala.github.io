@@ -21,7 +21,7 @@ Hello!
 
 I am Keerthi Dasala and this is my personal website. 
 
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at Rice University. I am a member of Rice Networks Group and advised by Prof. Edward Knightly. Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at Rice University. I am a member of [Rice Networks Group](http://networks.rice.edu) and advised by [Prof. Edward Knightly] (https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
 
 My current research focuses on cross-layer MAC-PHY protocol design and implementation to scale the data rate and spatial multiplexing potential in high-frequency mmWave networks.
 
