@@ -31,6 +31,8 @@ I am broadly interested in wireless communications and networking, signal estima
 ## **News**
 * **July 2020** – I am excited to organize the N2Women event at IEEE INFOCOM 2020. 
 
+* **July 2020** – Presenting my work on *SIMBA* at IEEE INFOCOM 2020 virtual conference. 
+
 * **February 2020** – Honored to receive the N2Women Young Researcher Fellowship sponsored by IEEE Communications Society
 
 * **December 2019** – Our paper on “SIMBA- Single RF Chain Multi-User Beamforming in  60 GHz WLANs” has been accepted for publication in IEEE INFOCOM 2020. 
