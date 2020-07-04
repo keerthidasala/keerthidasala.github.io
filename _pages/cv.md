@@ -24,21 +24,21 @@ Education
 
 Research experience
 ======
-* Graduate Research Assistant, Aug 2017 - Present
+* **Graduate Research Assistant**, Aug 2017 - Present
   * Rice Networks Group, Houston, Texas, USA
   * Advisor:  Dr.  Edward Knightly
 
-* Research Intern, June 2019 - Aug 2019
+* **Research Intern**, June 2019 - Aug 2019
   * Wireless Access and Devices Lab, Nokia Bell Labs, Crawford Hill, New Jersey, USA
   * Mentors:  Dr.  Mike Macdonald, Dr.  Dragan Samardzija
  
-* Graduate Research Assistant
+* **Graduate Research Assistant**
   * Wireless Research Lab, Indian Institute of Science, Bangalore, IND 
   * Advisor:  Dr.  Ananthanarayanan Chockalingam
   
-* Engineering Intern
+<!-- * Engineering Intern
   * Communication Systems group, ISRO Satellite Centre, Bangalore, IND
-  * Mentors:  Dr.  Hareesh N K, Dr.  Devadas Shenoy
+  * Mentors:  Dr.  Hareesh N K, Dr.  Devadas Shenoy -->
   
 Key Courses 
 ======
@@ -58,10 +58,10 @@ Awards and scholarship
 * Grace Hopper Celebration Scholars Program Scholarship, 2018
 * Texas Instruments Distinguished Student Fellowship, 2017
 * Rice University ECE Graduate Student Fellowship, 2017
-* Recipient of Prof. S.V.C Aiya Gold medal, IISc, 2016
-* President A.P.J. Abdul Kalam Post-Graduate Merit Fellowship, Government of India, 2016
-* Sri Shanthi Subramanyam Merit Award, ECE, Osmania University
-* Prof.V.M.Pandhari Pande Award for academic excellence in ECE, Osmania University
+* Recipient of Prof. S.V.C Aiya Gold medal, IISc
+* President A.P.J. Abdul Kalam Post-Graduate Merit Fellowship, Government of India
+* Sri Shanthi Subramanyam Award for academic excellence, ECE, Osmania University
+* Prof.V. M . Pandhari Pande Award for academic excellence in ECE, Osmania University
 * Ministry of Human Resource Development Scholarship, India
 * Ranked within top 0.01% in Graduate Engineering Entrance Exam (among≈0.5 million students)
 * Ranked within top 0.1% in National Engineering Entrance Exam (among≈0.3 million students)
