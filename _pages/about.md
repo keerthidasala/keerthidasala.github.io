@@ -26,3 +26,13 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 My current research focuses on cross-layer MAC-PHY protocol design and implementation to scale the data rate and spatial multiplexing potential in high-frequency mmWave networks.
 
 I am broadly interested in wireless communications and networking, signal estimation and detection, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), information theory and coding, and high frequency (mmWave and THz) network protocols and applications.
+
+
+## **News**
+* **July 2020** – I am excited to organize the N2Women event at IEEE INFOCOM 2020. 
+
+* **February 2020** – Honored to receive the N2Women Young Researcher Fellowship sponsored by IEEE Communications Society
+
+* **December 2019** – Our paper on “SIMBA- Single RF Chain Multi-User Beamforming in  60 GHz WLANs” has been accepted for publication in IEEE INFOCOM 2020. 
+
+* **June – August 2019** – Spending my summer at NOKIA-Bell Labs, New Jersey as a research intern with Mike Macdonald, Dragan Samardzija. Was so much fun!
