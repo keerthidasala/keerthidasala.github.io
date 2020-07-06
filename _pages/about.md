@@ -29,6 +29,8 @@ I am broadly interested in wireless communications and networking, signal estima
 
 
 ## **News**
+* **July 2020** - Our paper on “Synchronized Uplink time of Arrival Localization - A Measurement driven Evaluation” has been accepted for publication in IEEE VTC 2020. This paper is based on my summer internship work at Bell Labs. 
+
 * **July 2020** – I am excited to organize the [N2Women Event](https://n2women.comsoc.org/meetings/) at IEEE INFOCOM 2020. 
 
 * **July 2020** – Presenting my work on *SIMBA* at IEEE INFOCOM 2020 virtual conference. 
