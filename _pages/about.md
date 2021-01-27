@@ -47,7 +47,7 @@ I am broadly interested in wireless communications and networking, signal estima
 
   * **June – August 2019** – Spent my summer at NOKIA-Bell Labs, New Jersey as a research intern with mentors - Mike Macdonald, and Dragan Samardzija. Was so much fun!
   
-  <!--
+ <!--
   <h3>News</h3>
 <ul style="list-style-type:none">
 <ul style="list-style-type:none">
@@ -59,4 +59,5 @@ I am broadly interested in wireless communications and networking, signal estima
 <li><span class = "timestamp">July 1, 2020</span><b>Big News!</b> Moved to <a href="https://www.cis.upenn.edu/">CIS@UPenn</a>.<br> Excited to start as a Postdoctoral Researcher with <a href ="https://www.cis.upenn.edu/~alur/">Prof. Rajeev Alur</a>.</li><br>
 </ul>
 <p><a href="news.html">All news&hellip;</a></p></div>
+
 -->
