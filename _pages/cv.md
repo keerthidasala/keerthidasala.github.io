@@ -65,9 +65,9 @@ Awards and scholarship
 * Prof.V. M . Pandhari Pande Award for academic excellence in ECE, Osmania University
 * Ministry of Human Resource Development Scholarship, India
 * Dr. Mudaliar Memorial merit student award for academic excellence in secondary school 
-<!--
+<!---
 * Ranked within top 0.01% in Graduate Engineering Entrance Exam (among≈0.5 million students)
 * Ranked within top 0.1% in National Engineering Entrance Exam (among≈0.3 million students)
 * Ranked within top 0.01% in State Engineering Entrance Exam (among≈0.7 million students)
 * Dr. Mudaliar memorial merit student award for academic excellence in secondary school 
--->
+--->
