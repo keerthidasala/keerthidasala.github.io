@@ -10,6 +10,8 @@ redirect_from:
 <!--
 I'm a wireless networking and communications researcher. Currently, I am working on cross-layer MAC-PHY protocol design and implementation to scale the data rate and spatial multiplexing potential in High-Frequency mmWave networks.
 
+<font size="2"> 
+ 
 My research interests span areas of wireless communications and networking, signal estimation and detection, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), information theory and coding, cellular networks and high frequency (mmWave) protocols and applications.
 
 I'm associated with [Rice Networks Group](http://networks.rice.edu) at the Electrical and Computer Engineering department, Rice University, Houston, Texas. I am being advised by [Dr.Edward W.Knightly](https://knightly.rice.edu/). 
@@ -50,3 +52,4 @@ I am broadly interested in wireless communications and networking, signal estima
   * **June – August 2019** – Spent my summer at NOKIA-Bell Labs, New Jersey as a research intern with mentors - Mike Macdonald, and Dragan Samardzija. Was so much fun!
   
  
+</font> 
