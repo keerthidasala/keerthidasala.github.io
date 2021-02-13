@@ -23,13 +23,15 @@ I am Keerthi Dasala and this is my personal website.
 
 I am a Ph.D. student in the Department of Electrical and Computer Engineering at Rice University. I am a member of [Rice Networks Group](http://networks.rice.edu) and advised by [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
 
-My current research focuses on cross-layer MAC-PHY protocol design and implementation to scale the data rate and spatial multiplexing potential in high-frequency mmWave networks.
+My current research focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication systems with a focus on mmWave and THz WLANs.
+
+<!--cross-layer MAC-PHY protocol design and experimental implementation to scale the data rate and spatial multiplexing potential in mmWave and THz WLANs. -->
 
 I am broadly interested in wireless communications and networking, signal estimation and detection, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), information theory and coding, and high frequency (mmWave and THz) network protocols and applications.
 
 
 ### **News**
-  * **January 2021** - Honored to receive a CRA-W fellowship to attend Grad Cohort for Women Workshop. Looking forward to it!
+  * **January 2021** - Honored to receive CRA-W fellowship to attend Grad Cohort for Women Workshop. Looking forward to it!
   
   * **December 2020** - Our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” has been accepted for publication in IEEE INFOCOM 2021. 
 
