@@ -10,7 +10,7 @@ redirect_from:
 Education
 ======
 * Ph.D. Student in ECE, Rice University, Houston, TX, USA. 2017-Present.
-* M.E. (Research) in Electrical & Communications Engineering Science, IISc, Bangalore, India.
+* M.E. (Research) in Electrical & Communications Engineering, IISc, Bangalore, India.
 
 **Research Interests**
 ======
@@ -34,7 +34,7 @@ Research experience
  
 * **Graduate Research Assistant**
   * Wireless Research Lab, Indian Institute of Science, Bangalore, IND 
-  * Advisor:  Dr.  Ananthanarayanan Chockalingam
+  
   
 <!-- * Engineering Intern
   * Communication Systems group, ISRO Satellite Centre, Bangalore, IND
@@ -54,6 +54,7 @@ Key Courses
 
 Awards and scholarship
 ======
+* CRA-W Grad Cohort for Women Fellowship, 2021
 * N2Women Young Researcher Fellowship, IEEE Communications Society, 2020
 * Grace Hopper Celebration Scholars Program Scholarship, 2018
 * Texas Instruments Distinguished Student Fellowship, 2017
@@ -63,7 +64,8 @@ Awards and scholarship
 * Sri Shanthi Subramanyam Award for academic excellence, ECE, Osmania University
 * Prof.V. M . Pandhari Pande Award for academic excellence in ECE, Osmania University
 * Ministry of Human Resource Development Scholarship, India
-* Ranked within top 0.01% in Graduate Engineering Entrance Exam (among≈0.5 million students)
+* Dr. Mudaliar Memorial merit student award for academic excellence in secondary school 
+<!--* Ranked within top 0.01% in Graduate Engineering Entrance Exam (among≈0.5 million students)
 * Ranked within top 0.1% in National Engineering Entrance Exam (among≈0.3 million students)
 * Ranked within top 0.01% in State Engineering Entrance Exam (among≈0.7 million students)
-* Dr. Mudaliar memorial merit student award for academic excellence in secondary school
+* Dr. Mudaliar memorial merit student award for academic excellence in secondary school -->
