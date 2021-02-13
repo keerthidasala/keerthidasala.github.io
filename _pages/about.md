@@ -14,7 +14,7 @@ My research interests span areas of wireless communications and networking, sign
 I'm associated with [Rice Networks Group](http://networks.rice.edu) at the Electrical and Computer Engineering department, Rice University, Houston, Texas. I am being advised by [Dr.Edward W.Knightly](https://knightly.rice.edu/). 
 Previously, I have completed my Masters in Electrical Engineering from IISc Bangalore, India
 -->
-<font size="2"> 
+
 Hello!
 
 I am Keerthi Dasala and this is my personal website. 
@@ -46,5 +46,4 @@ I am broadly interested in wireless communications and networking, signal estima
   * **December 2019** – Our paper on “SIMBA- Single RF Chain Multi-User Beamforming in  60 GHz WLANs” has been accepted for publication in IEEE INFOCOM 2020. 
 
   * **June – August 2019** – Spent my summer at NOKIA-Bell Labs, New Jersey as a research intern with mentors - Mike Macdonald, and Dragan Samardzija. Was so much fun!
-  
-</font> 
+
