@@ -50,5 +50,5 @@ I am broadly interested in wireless communications and networking, signal estima
   * **June – August 2019** – Spent my summer at NOKIA-Bell Labs, New Jersey as a research intern with mentors - Mike Macdonald, and Dragan Samardzija. Was so much fun!
 
 
-[All News](/news.md/)
+[All News](/news)
 
