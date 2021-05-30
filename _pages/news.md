@@ -6,8 +6,10 @@ author_profile: true
 redirect_from:
   - /about
 ---
+  
+  * **June 2021** - Excited to spend summer 2021 as a Wireless Research Intern at Qualcomm with mentors - Navid Abedini & Jane Luo.
 
-  * **May 2021** - Honored and humbled to receive the "Best Paper Award" for our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” at IEEE INFOCOM 2021. 
+  * **May 2021** - Honored and humbled to receive the "Best Paper Award" for our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” at IEEE INFOCOM 2021. Extremely grateful to my advisor, collaborators, and colleagues! 
 
   * **January 2021** - Honored to receive CRA-W fellowship to attend Grad Cohort for Women Workshop. Looking forward to it!
   
