@@ -39,16 +39,5 @@ I am broadly interested in wireless communications and networking, signal estima
 
   * **July 2020** - Our paper on “Synchronized Uplink time of Arrival Localization - A Measurement driven Evaluation” has been accepted for publication in IEEE VTC 2020. This paper is based on my summer internship work at Bell Labs. 
 
-  * **July 2020** – Excited to organize the [N2Women Event](https://n2women.comsoc.org/meetings/) at IEEE INFOCOM 2020. 
-
-  * **July 2020** – Presenting my work on *SIMBA* at IEEE INFOCOM 2020 virtual conference. 
-
-  * **February 2020** – Honored to receive the [N2Women Young Researcher Fellowship](https://n2women.comsoc.org/fellowships/fellowship-recipients-2020/) sponsored by IEEE Communications Society
-
-  * **December 2019** – Our paper on “SIMBA- Single RF Chain Multi-User Beamforming in  60 GHz WLANs” has been accepted for publication in IEEE INFOCOM 2020. 
-
-  * **June – August 2019** – Spent my summer at NOKIA-Bell Labs, New Jersey as a research intern with mentors - Mike Macdonald, and Dragan Samardzija. Was so much fun!
-
-
-[All News](/news)
+[All News](/news.md/)
 
