@@ -49,3 +49,11 @@ I am broadly interested in wireless communications and networking, signal estima
 
   * **June – August 2019** – Spent my summer at NOKIA-Bell Labs, New Jersey as a research intern with mentors - Mike Macdonald, and Dragan Samardzija. Was so much fun!
 
+
+</ul>
+<p><a href="news.html">All news&hellip;</a></p></div>
+<!--If you have any comments, questions, bug reports or suggestions regarding this template, or if you plan to customize this template into a new public theme for any CMS/Blog and want your version linked from my site, then you are very welcome to contact me through my website. <a href="#">Read more...</a></p>
+<p class="credits">&copy; 2012 Your Name<br />
+Template design by <a href="http://andreasviklund.com/">Andreas Viklund</a> / Best hosted at <a href="https://www.svenskadomaner.se/?ref=mall&amp;ling=en" title="Svenska Domaner AB">www.svenskadomaner.se</a></p>
+	-->
+</div></div></body></html>
