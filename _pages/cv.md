@@ -54,7 +54,9 @@ Key Courses
 
 Awards and scholarship
 ======
+* Best Paper Award at IEEE INFOCOM, 2021
 * CRA-W Grad Cohort for Women Fellowship, 2021
+* Best Paper Award at IEEE VTC, 2020
 * N2Women Young Researcher Fellowship, IEEE Communications Society, 2020
 * Grace Hopper Celebration Scholars Program Scholarship, 2018
 * Texas Instruments Distinguished Student Fellowship, 2017
