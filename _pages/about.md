@@ -29,6 +29,8 @@ I am broadly interested in wireless communications and networking, signal estima
 
 
 ### **News**
+  * **June 2021** - Excited to spend summer 2021 as a Wireless Research Intern at Qualcomm with mentors - Navid Abedini & Jane Luo.
+
   * **May 2021** - Honored and humbled to receive the "Best Paper Award" for our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” at IEEE INFOCOM 2021. 
 
   * **January 2021** - Honored to receive CRA-W fellowship to attend Grad Cohort for Women Workshop. Looking forward to it!
@@ -36,8 +38,6 @@ I am broadly interested in wireless communications and networking, signal estima
   * **December 2020** - Our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” has been accepted for publication in IEEE INFOCOM 2021. 
 
   * **October 2020** - Our paper on “Synchronized Uplink time of Arrival Localization - A Measurement driven Evaluation” has won the "Best Paper Award" at IEEE VTC 2020. 
-
-  * **July 2020** - Our paper on “Synchronized Uplink time of Arrival Localization - A Measurement driven Evaluation” has been accepted for publication in IEEE VTC 2020. This paper is based on my summer internship work at Bell Labs. 
 
 [All News](/news.md/)
 
