@@ -29,6 +29,8 @@ I am broadly interested in wireless communications and networking, signal estima
 
 
 ### **News**
+  * **May 2021** - Homored and humbled to receive the "Best Paper Award" for our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” at IEEE INFOCOM 2021. 
+
   * **January 2021** - Honored to receive CRA-W fellowship to attend Grad Cohort for Women Workshop. Looking forward to it!
   
   * **December 2020** - Our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” has been accepted for publication in IEEE INFOCOM 2021. 
