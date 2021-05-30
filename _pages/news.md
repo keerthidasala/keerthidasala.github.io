@@ -7,8 +7,6 @@ redirect_from:
   - /about
 ---
 
-
-### **News**
   * **May 2021** - Honored and humbled to receive the "Best Paper Award" for our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” at IEEE INFOCOM 2021. 
 
   * **January 2021** - Honored to receive CRA-W fellowship to attend Grad Cohort for Women Workshop. Looking forward to it!
