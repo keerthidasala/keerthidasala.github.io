@@ -29,6 +29,9 @@ I am broadly interested in wireless communications and networking, signal estima
 
 
 ### **News**
+
+  * **October 2021** - Who is the new Ph.D Candidate in town? Passed my Ph.D. proposal qualifying exam. Another milestone unlocked!
+
   * **June 2021** - Excited to spend summer 2021 as a Wireless Research Intern at Qualcomm with mentors - Navid Abedini & Jane Luo.
 
   * **May 2021** - Honored and humbled to receive the "Best Paper Award" for our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” at IEEE INFOCOM 2021. 
