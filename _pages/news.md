@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /about
 ---
+ * **August 2022** - Finished Grad School! 
+
+  * **June 2022** - Defended Ph.D. Thesis. Hooray!
+ 
   * **October 2021** - Who is the new Ph.D Candidate in town? Passed my Ph.D. proposal qualifying exam. Another milestone unlocked!
  
   * **June 2021** - Excited to spend summer 2021 as a Wireless Research Intern at Qualcomm with mentors - Navid Abedini & Jane Luo.
