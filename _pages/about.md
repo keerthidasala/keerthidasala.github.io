@@ -19,28 +19,35 @@ Hello!
 
 I am Keerthi Dasala and this is my personal website. 
 
-I am a Ph.D. student in the Department of Electrical and Computer Engineering at Rice University. I am a member of [Rice Networks Group](http://networks.rice.edu) and advised by [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
+<h3>  I am on the academic job market !!! </h3>
 
-My current research focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication systems with a focus on mmWave and THz WLANs.
+I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in August 2022. 
+<!-- and currently working as a Senior Research Engineer at Qualcomm Technologies, Inc. towards the design and development of next-generation wireless networks. -->
+My thesis work, is on [Design and Experimental Evaluation of Next-Generation Multi-User WLANs from Millimeter-Wave to Terahertz](https://scholarship.rice.edu/handle/1911/113234) 
+
+My thesis advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
+
+<!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a member of [Rice Networks Group](http://networks.rice.edu) and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
+
+### **My Research**
+
+My research focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication systems with a focus on millimeter-wave and Terahertz networks.
 
 <!--cross-layer MAC-PHY protocol design and experimental implementation to scale the data rate and spatial multiplexing potential in mmWave and THz WLANs. -->
 
-I am broadly interested in wireless communications and networking, signal estimation and detection, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), information theory and coding, and high frequency (mmWave and THz) network protocols and applications.
+I am broadly interested in wireless communications and sensing, robotic wireless networks, internet of things, wireless security, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), information theory and coding.
+
+Reflecting the multi-disciplinary nature of my research, my results have been pub- lished in premier venues and journals in the areas of mobile computing and wireless networks. I have been named as a Star Doctoral Student in Rice ECE in 2021 and received numerous recognitions for my research, including the Texas Instruments Distinguished Fellowship, Best Paper Award in IEEE INFOCOM 2021, Best Paper Award in IEEE VTC 2020, CRA-WP and Grace Hopper
+Scholarship, and N2Women Young Researcher Fellowship. I
 
 
-### **News**
 
-  * **October 2021** - Who is the new Ph.D Candidate in town? Passed my Ph.D. proposal qualifying exam. Another milestone unlocked!
+### **Recent News**
 
-  * **June 2021** - Excited to spend summer 2021 as a Wireless Research Intern at Qualcomm with mentors - Navid Abedini & Jane Luo.
+  * **August 2022** - Finished Grad School! 
 
-  * **May 2021** - Honored and humbled to receive the "Best Paper Award" for our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” at IEEE INFOCOM 2021. 
-
-  * **January 2021** - Honored to receive CRA-W fellowship to attend Grad Cohort for Women Workshop. Looking forward to it!
-  
-  * **December 2020** - Our paper on “Uplink Multi-User Beamforming on Single RF Chain mmWave WLANs” has been accepted for publication in IEEE INFOCOM 2021. 
-
-  * **October 2020** - Our paper on “Synchronized Uplink time of Arrival Localization - A Measurement driven Evaluation” has won the "Best Paper Award" at IEEE VTC 2020. 
+  * **June 2022** - Defended Ph.D. Thesis. Hooray!
+ 
 
 [All News](/news.md/)
 
