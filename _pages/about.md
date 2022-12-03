@@ -21,13 +21,13 @@ I am Keerthi Dasala and this is my personal website.
 
 <h3>  I am on the academic job market !!! </h3>
 
-I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in August 2022. 
+I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in August 2022, where I was a member of [Rice Networks Group](http://networks.rice.edu). 
 <!-- and currently working as a Senior Research Engineer at Qualcomm Technologies, Inc. towards the design and development of next-generation wireless networks. -->
-My thesis work, is on [Design and Experimental Evaluation of Next-Generation Multi-User WLANs from Millimeter-Wave to Terahertz](https://scholarship.rice.edu/handle/1911/113234) 
+The main focus of my Ph.D. is on [Design and Experimental Evaluation of Next-Generation Multi-User WLANs from Millimeter-Wave to Terahertz](https://scholarship.rice.edu/handle/1911/113234) 
 
-My thesis advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
+My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
 
-<!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a member of [Rice Networks Group](http://networks.rice.edu) and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
+<!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a  and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
 
 ### **My Research**
 
@@ -37,8 +37,8 @@ My research focuses on theoretical analysis and modeling to hardware implementat
 
 I am broadly interested in wireless communications and sensing, robotic wireless networks, internet of things, wireless security, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), information theory and coding.
 
-Reflecting the multi-disciplinary nature of my research, my results have been pub- lished in premier venues and journals in the areas of mobile computing and wireless networks. I have been named as a Star Doctoral Student in Rice ECE in 2021 and received numerous recognitions for my research, including the Texas Instruments Distinguished Fellowship, Best Paper Award in IEEE INFOCOM 2021, Best Paper Award in IEEE VTC 2020, CRA-WP and Grace Hopper
-Scholarship, and N2Women Young Researcher Fellowship. I
+Reflecting the multi-disciplinary nature of my research, my results have been published in premier venues and journals in the areas of mobile computing and wireless networks. I have been named as a Star Doctoral Student in Rice ECE in 2021 and received numerous recognitions for my research, including the Texas Instruments Distinguished Fellowship, Best Paper Award in IEEE INFOCOM 2021, Best Paper Award in IEEE VTC 2020, CRA-WP and Grace Hopper
+Scholarship, and N2Women Young Researcher Fellowship.
 
 
 
