@@ -23,7 +23,7 @@ Education
 - Cross-layer MAC-PHY protocol design and implementation
 <!-- - Communication and Sensing in UAV/drone networks -->
 
-Research experience
+Professional Experience
 ======
 * **Graduate Research Assistant**, Aug 2017 - Aug 2022
   * Rice Networks Group, Houston, Texas, USA
@@ -45,7 +45,7 @@ Research experience
   * Communication Systems group, ISRO Satellite Centre, Bangalore, IND
   * Mentors:  Dr.  Hareesh N K, Dr.  Devadas Shenoy -->
   
-Key Courses 
+<!-- Key Courses 
 ======
 * Deep Learning
 * Statistical Signal Processing
@@ -54,10 +54,10 @@ Key Courses
 * Random Processes and Applications
 * Communication Networks
 * Digital Signal Processing
-* Digital Communications
+* Digital Communications -->
 
 
-Awards and scholarship
+Awards and Fellowships
 ======
 * Best Paper Award at IEEE INFOCOM, 2021
 * Recognized as Star Doctoral Student, ECE Department, Rice University, 2021
@@ -89,14 +89,32 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+Teaching Experience
 ======
-  <ul>{% for post in site.teaching %}
+* **Teaching Assistant**
+  * Modern Communication Theory and Practice (ELEC 551) - Fall 2020, Fall 2021
+  * Advanced Wireless Networking (ELEC 538), Spring 2021
+  * Signals and Systems (ELEC 242) Spring 2020
+  * Introduction to Deep Learning (ELEC 576), Fall 2019
+  * Introduction to Communication Networks (ELEC 537), Fall 2018
+  * Digital Communications (ELEC 430), Spring 2017
+  * Computer Vision - Fall 2016
+* **Guest Lecturer**
+  * Modern Communication Theory and Practice (ELEC 551) Rice University, Fall 2020
+  * Intro to Communication Networks (ELEC 537) 
+  * Intro to Random Processes (ELEC 533) 
+* **Pedagogical and Career Training**
+  * Center for Teaching Excellence Rice University, Spring 2020
+    * Research Communication Training Program (semester-long) 
+    * Workshop on Active Learning Techniques for a more engaged Engineering Class
+    * Workshop on Strategic Career Design for the Peak Performing Professor
+
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
