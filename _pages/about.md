@@ -19,7 +19,7 @@ Hello!
 
 I am Keerthi Dasala and this is my personal website. 
 
-<h3>  I am on the academic job market !!! </h3>
+<!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in August 2022, where I was a member of [Rice Networks Group](http://networks.rice.edu). 
 <!-- and currently working as a Senior Research Engineer at Qualcomm Technologies, Inc. towards the design and development of next-generation wireless networks. -->
