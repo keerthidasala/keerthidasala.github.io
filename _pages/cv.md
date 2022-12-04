@@ -9,8 +9,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Student in ECE, Rice University, Houston, TX, USA. 2017-2022.
-* M.E. (Research) in Electrical & Communications Engineering, IISc, Bangalore, India.
+* Ph.D., Electrical and Computer Engineering, Rice University, Houston, TX, USA. 2017-2022.
+* M.E. (Research), Electrical & Communications Engineering, IISc, Bangalore, India.
 
 **Research Interests**
 ======
