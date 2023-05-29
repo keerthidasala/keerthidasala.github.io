@@ -48,7 +48,7 @@ Scholarship, and N2Women Young Researcher Fellowship. -->
 
 
 ### **Recent News**
-* **September 2022** - Started working as a Senior Research Enginener at Qualcomm Wireless R&D, NJ. 
+  * **September 2022** - Started working as a Senior Research Enginener at Qualcomm Wireless R&D, NJ. 
 
   * **August 2022** - Finished Grad School! 
 
