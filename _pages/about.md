@@ -15,27 +15,32 @@ I'm associated with [Rice Networks Group](http://networks.rice.edu) at the Elect
 Previously, I have completed my Masters in Electrical Engineering from IISc Bangalore, India
 -->
 
+### **About me**
+
 Hello!
 
 I am Keerthi Dasala and this is my personal website. 
 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
-I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in August 2022, where I was a member of [Rice Networks Group](http://networks.rice.edu). 
-<!-- and currently working as a Senior Research Engineer at Qualcomm Technologies, Inc. towards the design and development of next-generation wireless networks. -->
-The main focus of my Ph.D. is on [Design and Experimental Evaluation of Next-Generation Multi-User WLANs from Millimeter-Wave to Terahertz](https://scholarship.rice.edu/handle/1911/113234) 
+I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022, where I was a member of [Rice Networks Group](http://networks.rice.edu). 
+I am currently working as a Senior Research Engineer at Qualcomm Technologies, Inc. towards the design and development of next-generation wireless networks. 
+The main focus of my Ph.D. was on Design and Experimental Evaluation of Next-Generation Multi-User Wireless Networks in Millimeter-Wave and Terahertz Spectrum. 
+<!-- (https://scholarship.rice.edu/handle/1911/113234)  -->
 
 My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
 
 <!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a  and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
 
-### **My Research**
+### **Research Interests**
 
-My research focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication systems with a focus on millimeter-wave and Terahertz networks.
+My research focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
+
+<!-- Our research covers broadly next-generation wireless networks, wireless sensing, and smart device systems. We are interested in the design, implementation, and experimental evaluation of novel technologies to enable ultra-fast smart robust adaptable, and secure wireless systems. Our research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems.  -->
 
 <!--cross-layer MAC-PHY protocol design and experimental implementation to scale the data rate and spatial multiplexing potential in mmWave and THz WLANs. -->
 
-I am broadly interested in wireless communications and sensing, robotic wireless networks, internet of things, wireless security, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), information theory and coding.
+I am also interested all ascpects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), and information theory and coding.
 
 <!-- Reflecting the multi-disciplinary nature of my research, my results have been published in premier venues and journals in the areas of mobile computing and wireless networks. I have been named as a Star Doctoral Student in Rice ECE in 2021 and received numerous recognitions for my research, including the Texas Instruments Distinguished Fellowship, Best Paper Award in IEEE INFOCOM 2021, Best Paper Award in IEEE VTC 2020, CRA-WP and Grace Hopper
 Scholarship, and N2Women Young Researcher Fellowship. -->
@@ -43,6 +48,7 @@ Scholarship, and N2Women Young Researcher Fellowship. -->
 
 
 ### **Recent News**
+* **September 2022** - Started working as a Senior Research Enginener at Qualcomm Wireless R&D, NJ. 
 
   * **August 2022** - Finished Grad School! 
 
