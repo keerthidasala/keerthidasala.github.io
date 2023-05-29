@@ -34,13 +34,13 @@ My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior t
 
 ### **Research Interests**
 
-My research focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
+My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
 
 <!-- Our research covers broadly next-generation wireless networks, wireless sensing, and smart device systems. We are interested in the design, implementation, and experimental evaluation of novel technologies to enable ultra-fast smart robust adaptable, and secure wireless systems. Our research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems.  -->
 
 <!--cross-layer MAC-PHY protocol design and experimental implementation to scale the data rate and spatial multiplexing potential in mmWave and THz WLANs. -->
 
-I am also interested all ascpects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G and beyond), and information theory and coding.
+I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
 
 <!-- Reflecting the multi-disciplinary nature of my research, my results have been published in premier venues and journals in the areas of mobile computing and wireless networks. I have been named as a Star Doctoral Student in Rice ECE in 2021 and received numerous recognitions for my research, including the Texas Instruments Distinguished Fellowship, Best Paper Award in IEEE INFOCOM 2021, Best Paper Award in IEEE VTC 2020, CRA-WP and Grace Hopper
 Scholarship, and N2Women Young Researcher Fellowship. -->
