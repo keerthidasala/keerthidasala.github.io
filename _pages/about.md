@@ -15,7 +15,7 @@ I'm associated with [Rice Networks Group](http://networks.rice.edu) at the Elect
 Previously, I have completed my Masters in Electrical Engineering from IISc Bangalore, India
 -->
 
-### **About me**
+## About me
 
 Hello!
 
@@ -32,7 +32,7 @@ My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior t
 
 <!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a  and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
 
-### **Research Interests**
+## Research Interests
 
 My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
 
@@ -47,7 +47,7 @@ Scholarship, and N2Women Young Researcher Fellowship. -->
 
 
 
-### **Recent News**
+## Recent News
   * **September 2022** - Started working as a Senior Research Enginener at Qualcomm Wireless R&D, NJ. 
 
   * **August 2022** - Finished Grad School! 
