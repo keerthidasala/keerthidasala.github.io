@@ -1,6 +1,11 @@
+---
+title: "Teaching Experience"
+collection: teaching
+type: "All courses"
+permalink: /teaching/
+location: "Houston, Texas, USA"
+---
 
-Teaching Experience
-======
 * **Teaching Assistant**
   * Modern Communication Theory and Practice (ELEC 551) - Fall 2020, Fall 2021
   * Advanced Wireless Networking (ELEC 538), Spring 2021
