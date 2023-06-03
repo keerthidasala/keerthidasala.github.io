@@ -42,6 +42,8 @@ My research broadly focuses on theoretical analysis and modeling to hardware imp
 
 I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
 
+Refer [Research](./research) for current research directions.
+
 <!-- Reflecting the multi-disciplinary nature of my research, my results have been published in premier venues and journals in the areas of mobile computing and wireless networks. I have been named as a Star Doctoral Student in Rice ECE in 2021 and received numerous recognitions for my research, including the Texas Instruments Distinguished Fellowship, Best Paper Award in IEEE INFOCOM 2021, Best Paper Award in IEEE VTC 2020, CRA-WP and Grace Hopper
 Scholarship, and N2Women Young Researcher Fellowship. -->
 
