@@ -10,7 +10,7 @@ providing a solution that exploits the large swath of spectrum flexibly and inco
 node architectures with unexplored devices and systems. 
 
 ## Enhancing Robustness and Scalability of Millimeter-Wave Networks
-<img style="float: right;" src="../images/MU_mmWave.png" width="400" height="250"> 
+<img align="right;" src="../images/MU_mmWave.png" width="400" height="250"> 
 
 Today, the GHz-scale unlicensed spectrum coupled with directional antennas can support Gbps data
 rates in point-to-point links. Next-generation devices aim to scale to dense user populations via the
@@ -22,7 +22,7 @@ These techniques aim to enable adaptable and resilient mm-Wave networks that can
 
 
 ## Agile, Adaptable, and Smart Terahertz Communication and Sensing 
-<img style="float: right;" src="../images/MU_THz.png" width="400" height="250">
+<img align=" right;" src="../images/MU_THz.png" width="400" height="250">
 
 Scaling spectrum access towards terahertz will provide a key ingredient to realize the sixth generation
 and beyond of wireless networks to . In this work, we develop the foundations for scaling wireless networks to
@@ -31,7 +31,8 @@ sensing. Indeed, different propagation characteristics, wide bandwidth, directio
 mobile THz communication and sensing. In particular, the project will design and build practical, scalable, mobile THz wireless technologies for next-generation communications systems. 
 
 ## Smart Devices and Systems for Enhanced Coverage, Reliability, and Security
-<img style="float: right;" src="../images/Smartsurfaces_Security.png" width="400" height="300">
+<img align="right;" src="../images/Smartsurfaces_Security.png" width="400" height="300">
+<!-- <img style="float: right;" src="../images/Smartsurfaces_Security.png" width="400" height="300"> -->
 
 Our research focuses on developing cutting-edge technologies that harness the power of intelligent surfaces to revolutionize wireless networks operating in the millimeter-wave (mmWave) and terahertz (THz) frequency ranges. 
 These frequencies hold immense potential for ultra-high-speed connectivity and support for next-generation applications, including industrial automation, augmented and virtual reality, and cyber-physical systems.
