@@ -10,12 +10,15 @@ providing a solution that exploits the large swath of spectrum flexibly and inco
 node architectures with unexplored devices and systems. 
 
 ## Enhancing Robustness and Scalability of Millimeter-Wave Networks
+<img src="../images/MU_mmWave.png" width="500" height="300">
 Today, the GHz-scale unlicensed spectrum coupled with directional antennas can support Gbps data
 rates in point-to-point links. Next-generation devices aim to scale to dense user populations via the
 concurrent transmission of multiple independent data streams, i.e., downlink and uplink multi-user
 MIMO. 
 
 ## Agile, Adaptable, and Smart Terahertz Communication and Sensing 
+<img src="../images/MU_THz.png" width="500" height="300">
+
 Scaling spectrum access towards terahertz will provide a key ingredient to realize the sixth generation
 and beyond of wireless networks to . In this work, we develop the foundations for scaling wireless networks to
 Terabits per second (Tb/sec) via coupling new advances in Terahertz-scale (THz) communication and
@@ -23,6 +26,7 @@ sensing. Indeed, different propagation characteristics, wide bandwidth, directio
 mobile THz communication and sensing. In particular, the project will design and build practical, scalable, mobile THz wireless technologies for next-generation communications systems. 
 
 ## Smart Devices and Systems for Enhanced Coverage, Reliability, and Security
+<img src="../images/Smartsurfaces_Security.png" width="500" height="400">
 Our research focuses on developing cutting-edge technologies that harness the power of intelligent surfaces to revolutionize wireless networks operating in the millimeter-wave (mmWave) and terahertz (THz) frequency ranges. 
 These frequencies hold immense potential for ultra-high-speed connectivity and support for next-generation applications, including industrial automation, augmented and virtual reality, and cyber-physical systems.
 Intelligent surfaces serve as intelligent reflectors, dynamically modifying wireless channel properties to enhance coverage, reliability, and security. Through cross-layer PHY/MAC protocol design and rigorous experimental evaluations, we dynamically 
