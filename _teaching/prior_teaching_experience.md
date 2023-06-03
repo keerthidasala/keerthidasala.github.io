@@ -1,9 +1,9 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "All courses"
+type: ""
 permalink: /teaching/
-location: "Houston, Texas, USA"
+location: ""
 ---
 
 **Teaching Assistant**
