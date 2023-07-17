@@ -6,7 +6,8 @@ author_profile: true
 
 ## Technical Program Committee 
 
-- IEEE INFOCOM 2024 
+- IEEE INFOCOM 2024
+- IEEE DySPAN 2024
 - ACM MobiHoc 2024
 
 ## Invited Reviewer
