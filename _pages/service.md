@@ -12,7 +12,7 @@ author_profile: true
 
 ## Invited Reviewer
 - IEEE/ACM Transactions on Networking
-- IEEE Transcations on Mobile Computing
+- IEEE Transactions on Mobile Computing
 - IEEE Journal on Selected Areas in Communications
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Vehicular Technology
@@ -25,7 +25,7 @@ author_profile: true
 
 > Organizing (Reviews, Arranging Program, Funding, etc)
 
-BAR Workshop (Co-loated with NDSS) (2023, 2022)
+BAR Workshop (Co-located with NDSS) (2023, 2022)
 
 ## University Service
 
