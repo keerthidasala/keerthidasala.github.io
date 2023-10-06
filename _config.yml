@@ -86,9 +86,9 @@ author:
   bio              : "Incoming Assistant Professor, Purdue ECE"
   location         : "West Lafayette, IN"
   employer         : "https://engineering.purdue.edu/ECE"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lrhub9UAAAAJ"
-  email            : kdasala@purdue.edu
+  email            : "kdasala@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
