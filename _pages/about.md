@@ -23,17 +23,19 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 ---
-> <span style="color: blue"> 📣 I'm an incoming Assistant Professor at Purdue, starting in Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet. </span>
+> <span style="color: blue"> 📣  I'm an incoming Assistant Professor at Purdue, starting in Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet. </span>
 ---
+
 My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
+
+I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
+
+Refer [Research](./research) for current research directions.
 
 <!-- Our research covers broadly next-generation wireless networks, wireless sensing, and smart device systems. We are interested in the design, implementation, and experimental evaluation of novel technologies to enable ultra-fast smart robust adaptable, and secure wireless systems. Our research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems.  -->
 
 <!--cross-layer MAC-PHY protocol design and experimental implementation to scale the data rate and spatial multiplexing potential in mmWave and THz WLANs. -->
 
-I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
-
-Refer [Research](./research) for current research directions.
 
 <!--, where I was a member of [Rice Networks Group](http://networks.rice.edu). -->
 
