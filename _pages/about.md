@@ -24,11 +24,19 @@ I am Keerthi Dasala and this is my personal website.
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022, where I was a member of [Rice Networks Group](http://networks.rice.edu). 
-I am currently working as a Senior Research Engineer at Qualcomm Technologies, Inc. towards the design and development of next-generation wireless networks. 
-The main focus of my Ph.D. was on Design and Experimental Evaluation of Next-Generation Multi-User Wireless Networks in Millimeter-Wave and Terahertz Spectrum. 
+I am currently working as a Senior Research Engineer at Qualcomm Technologies, Inc., towards designing and developing next-generation wireless networks. 
+<!--The main focus of my Ph.D. was on Design and Experimental Evaluation of Next-Generation Multi-User Wireless Networks in Millimeter-Wave and Terahertz Spectrum. -->
 <!-- (https://scholarship.rice.edu/handle/1911/113234)  -->
 
 My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
+
+---
+<!-- ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
+{: #announcement}-->
+
+> <i class="fa-duotone fa-bullhorn fa-xs" style="--fa-primary-color: #0000ff; --fa-secondary-color: #025cf7;"></i> I an incoming Assistant Professor at Purdue, starting Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email and we can arrange a time to meet.
+
+---
 
 <!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a  and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
 
