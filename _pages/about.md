@@ -34,7 +34,15 @@ My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior t
 <!-- ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
 {: #announcement}-->
 
-> <i class="fa-duotone fa-bullhorn fa-xs" style="--fa-primary-color: #0000ff; --fa-secondary-color: #025cf7;"></i> I an incoming Assistant Professor at Purdue, starting Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email and we can arrange a time to meet.
+<div class="panel panel-info">
+**Announcement <i class="fa-duotone fa-bullhorn fa-xs" style="--fa-primary-color: #0000ff; --fa-secondary-color: #025cf7;"></i>**
+{: .panel-heading}
+<div class="panel-body">
+
+I'm an incoming Assistant Professor at Purdue, starting Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet.
+
+</div>
+</div>
 
 ---
 
