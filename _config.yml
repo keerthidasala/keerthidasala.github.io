@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Keerthi Dasala"
 title_separator          : "-"
 name                     : &name "Keerthi Dasala"
-description              : &description "Graduate Research Assistant, Rice Networks Group, Electrical Enginering, Rice University"
+description              : &description "Incoming Assistant Professor, Purdue ECE"
 url                      : https://keerthidasala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "keerthidasala/keerthidasala.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Keerthi Dasala"
   avatar           : "IMG_2321.jpeg"
-  bio              : "Ph.D.'22, Rice University"
-  location         : "Houston, Texas"
-  employer         :
+  bio              : "Incoming Assistant Professor, Purdue ECE"
+  location         : "West Lafayette, IN"
+  employer         : "https://engineering.purdue.edu/ECE"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lrhub9UAAAAJ"
-  email            : keerthi.dasala@rice.edu
+  email            : kdasala@purdue.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
