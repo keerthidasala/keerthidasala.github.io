@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 collection:
 type: ""
-permalink: /teaching/
+permalink: /oldteaching/
 location: ""
 ---
 
