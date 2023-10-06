@@ -30,21 +30,13 @@ I am currently working as a Senior Research Engineer at Qualcomm Technologies, I
 
 My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
 
----
-<!-- ### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
-{: #announcement}-->
-
-<div class="panel panel-info">
-**Announcement <i class="fa-duotone fa-bullhorn fa-xs" style="--fa-primary-color: #0000ff; --fa-secondary-color: #025cf7;"></i>**
-{: .panel-heading}
-<div class="panel-body">
-
-I'm an incoming Assistant Professor at Purdue, starting Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet.
-
-</div>
-</div>
 
 ---
+> :mega:
+> <span style="color: blue"> I'm an incoming Assistant Professor at Purdue, starting in Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet. </span>
+
+---
+
 
 <!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a  and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
 
