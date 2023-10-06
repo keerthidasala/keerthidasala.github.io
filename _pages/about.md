@@ -19,29 +19,12 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 
 Hello!
 
-I am Keerthi Dasala and this is my personal website. 
-
+I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022. I am currently working as a Senior Research Engineer at Qualcomm Technologies, Inc., towards designing and developing next-generation wireless networks. 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
-I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022, where I was a member of [Rice Networks Group](http://networks.rice.edu). 
-I am currently working as a Senior Research Engineer at Qualcomm Technologies, Inc., towards designing and developing next-generation wireless networks. 
-<!--The main focus of my Ph.D. was on Design and Experimental Evaluation of Next-Generation Multi-User Wireless Networks in Millimeter-Wave and Terahertz Spectrum. -->
-<!-- (https://scholarship.rice.edu/handle/1911/113234)  -->
-
-My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. 
-
-
 ---
-> :mega:
-> <span style="color: blue"> I'm an incoming Assistant Professor at Purdue, starting in Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet. </span>
-
+> <span style="color: blue"> 📣 I'm an incoming Assistant Professor at Purdue, starting in Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet. </span>
 ---
-
-
-<!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a  and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
-
-## Research Interests
-
 My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
 
 <!-- Our research covers broadly next-generation wireless networks, wireless sensing, and smart device systems. We are interested in the design, implementation, and experimental evaluation of novel technologies to enable ultra-fast smart robust adaptable, and secure wireless systems. Our research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems.  -->
@@ -51,6 +34,18 @@ My research broadly focuses on theoretical analysis and modeling to hardware imp
 I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
 
 Refer [Research](./research) for current research directions.
+
+<!--, where I was a member of [Rice Networks Group](http://networks.rice.edu). -->
+
+<!--The main focus of my Ph.D. was on Design and Experimental Evaluation of Next-Generation Multi-User Wireless Networks in Millimeter-Wave and Terahertz Spectrum. -->
+<!-- (https://scholarship.rice.edu/handle/1911/113234)  -->
+
+<!-- My Ph.D. advisor is [Prof. Edward Knightly](https://knightly.rice.edu/). Prior to joining Rice, I completed my Masters in Electrical and Communications Engineering from IISc. -->
+
+<!-- I finished my in the Department of Electrical and Computer Engineering at Rice University. I am a  and advised by [Prof. Edward Knightly](https://knightly.rice.edu/).  -->
+
+
+
 
 <!-- Reflecting the multi-disciplinary nature of my research, my results have been published in premier venues and journals in the areas of mobile computing and wireless networks. I have been named as a Star Doctoral Student in Rice ECE in 2021 and received numerous recognitions for my research, including the Texas Instruments Distinguished Fellowship, Best Paper Award in IEEE INFOCOM 2021, Best Paper Award in IEEE VTC 2020, CRA-WP and Grace Hopper
 Scholarship, and N2Women Young Researcher Fellowship. -->
