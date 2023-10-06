@@ -19,11 +19,12 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 
 Hello!
 
-I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022. I am currently working as a Senior Research Engineer at Qualcomm Technologies, Inc., towards designing and developing next-generation wireless networks. 
+I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022. I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks. 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 ---
-> <span style=" color: blue; font-size: 16px "> 📣  I'm an incoming Assistant Professor at Purdue, starting in Spring 2024. If you are interested in working with me, please follow the Purdue application process and contact me. If you are already at Purdue, please send me an email, and we can arrange a time to meet. </span>
+> <span style=" color: lightskyblue; font-size: 16px "> 📣  I'm an incoming Assistant Professor at Purdue, starting in Spring 2024.
+> I am looking for highly motivated Ph.D. candidates who are excited about working at the intersection of wireless communication and sensing systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity. If you are interested in working with me, please follow the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241) and contact me. If you are already at Purdue, please email me, and we can arrange a time to meet and discuss potential projects. </span>
 ---
 
 My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
