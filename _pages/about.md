@@ -23,7 +23,7 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 ---
-> <span style=" color:#0d6efd; font-size: 16px "> 📣  I'm an incoming Assistant Professor at Purdue, starting in Spring 2024.  
+> <span style=" color:#0d6efd; font-size: 16px; font-style: regular "> 📣  I'm an incoming Assistant Professor at Purdue, starting in Spring 2024.  
 > I am looking for highly motivated Ph.D. candidates who are excited about working at the intersection of <b> wireless communication and sensing systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity </b>.
 > 
 > If you are interested in working with me, please follow the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241) and contact me. If you are already at Purdue, please email me, and we can arrange a time to meet and discuss potential projects.
