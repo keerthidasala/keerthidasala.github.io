@@ -32,7 +32,7 @@ mobile THz communication and sensing. In particular, the project will design and
 ## Smart Devices and Systems for Enhanced Coverage, Reliability, and Security
 <!-- <div class="pull-right"> <img align="right;" src="../images/Smartsurfaces_Security.png" width="400" height="300"> -->
 <!-- <img style="float: right;" src="../images/Smartsurfaces_Security.png" width="400" height="300"> -->
-<div class="float: right"> </div><img align=" center; src="../images/Smartsurfaces_Security.png" width="400" height="300"/>
+<div class="float: right"> </div> <img src="../images/Smartsurfaces_Security.png" width="400" height="300"/>
   
 Our research focuses on developing cutting-edge technologies that harness the power of intelligent surfaces to revolutionize wireless networks operating in the millimeter-wave (mmWave) and terahertz (THz) frequency ranges. 
 These frequencies hold immense potential for ultra-high-speed connectivity and support for next-generation applications, including industrial automation, augmented and virtual reality, and cyber-physical systems.
