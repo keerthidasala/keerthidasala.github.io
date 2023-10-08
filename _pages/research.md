@@ -10,7 +10,7 @@ providing a solution that exploits the large swath of spectrum flexibly and inco
 node architectures with unexplored devices and systems. 
 
 ## Robust and Scalable Millimeter-Wave Networks
-<div class="float: right"></div> <img align="center;" src="../images/Scenario_mmwave_long.png" width="400" height="250">
+<div class="float: right"></div> <img align="center;" src="../images/Scenario_mmwave_long.jpeg" width="400" height="250">
 
 Today, the GHz-scale unlicensed spectrum coupled with directional antennas can support Gbps data
 rates in point-to-point links. Next-generation devices aim to scale to dense user populations via the
