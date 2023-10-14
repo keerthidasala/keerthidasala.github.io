@@ -27,8 +27,7 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
 > I am looking for highly motivated Ph.D. candidates who are excited about working at the intersection of <b> wireless communication and sensing systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity </b>. </span>
 > 
 > <span style=" color: black; font-size: 16px; font-style: regular "> If you are a prospective graduate student interested in working with me, please do the following:
->   - Send me a brief [email](kdasala@purdue.edu) with your CV attached as a PDF. If you are debating between M.S. or Ph.D., please include that in your email.
-Apply to the ECE program at Purdue by following the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241). The application deadline is December 1. Include my name (Keerthi Dasala) in your application.
+>   - Send me a brief [email](kdasala@purdue.edu) with your CV attached as a PDF. If you are debating between M.S. or Ph.D., please include that in your email. Apply to the ECE program at Purdue by following the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241). The application deadline is December 1. Include my name (Keerthi Dasala) in your application.
 >   - If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects. </span>
 ---
 
