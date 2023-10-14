@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Current Course Offerings: Purdue, ECE** 
-  * [Wireless Communication Networks (ECE 600022)- Spring 2024](https://keerthidasala.github.io/WiNets/)
+  * [Wireless Communication Networks (ECE 60022)- Spring 2024](https://keerthidasala.github.io/WiNets/)
 
     
 **Teaching Assistant: Rice, ECE**
