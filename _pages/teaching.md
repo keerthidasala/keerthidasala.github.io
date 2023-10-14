@@ -4,7 +4,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching Assistant**
+**Current Course Offerings: Purdue, ECE** 
+  * [Wireless Communication Networks (ECE 600022)- Spring 2024](https://keerthidasala.github.io/WiNets/)
+
+    
+**Teaching Assistant: Rice, ECE**
   * Modern Communication Theory and Practice (ELEC 551) - Fall 2020, Fall 2021
   * Advanced Wireless Networking (ELEC 538), Spring 2021
   * Signals and Systems (ELEC 242) Spring 2020
@@ -13,7 +17,7 @@ author_profile: true
   * Digital Communications (ELEC 430), Spring 2017
   * Computer Vision - Fall 2016
   
-**Guest Lecturer**
+**Guest Lecturer: Rice, ECE**
   * Modern Communication Theory and Practice (ELEC 551) Rice University, Fall 2020
   * Intro to Communication Networks (ELEC 537) 
   * Intro to Random Processes (ELEC 533) 
