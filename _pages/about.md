@@ -28,7 +28,7 @@ I am looking for highly motivated Ph.D. candidates who are excited about working
 
 If you are a prospective graduate student interested in working with me, please do the following:
 - Send me a brief [email](kdasala@purdue.edu) with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email. Apply to the ECE program at Purdue by following the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241). The application deadline is December 1. Include my name in your application.
-- If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects. 
+-  <span style=" color: black; font-size:16px">  If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects. </span>
 ------
 
 My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems, focusing on Millimeter-wave and Terahertz networks. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine theory and experimentation to motivate, develop, and validate my research, with the hope of impacting real-world wireless systems.
