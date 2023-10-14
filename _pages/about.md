@@ -19,17 +19,20 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 
 Hello!
 
-I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022. I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks. 
+I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022, where I was fortunate to be supervised by [Prof. Edward Knightly](https://knightly.rice.edu/) and was a member of [Rice Networks Group](http://networks.rice.edu). I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks. 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 ---
-> <span style=" color:#0d6efd; font-size: 16px; font-style: regular "> 📣  I'm an incoming Assistant Professor at Purdue, starting in Spring 2024.  
+> <span style=" color:#0d6efd; font-size: 16px; font-style: regular "> 📣  I'm an incoming Assistant Professor at Purdue University, in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), starting in Spring 2024.  
 > I am looking for highly motivated Ph.D. candidates who are excited about working at the intersection of <b> wireless communication and sensing systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity </b>. </span>
 > 
-> <span style=" color: black; font-size: 16px; font-style: regular "> If you are interested in working with me, please follow the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241) and contact me. If you are already at Purdue, please email me, and we can arrange a time to meet and discuss potential projects. </span>
+> <span style=" color: black; font-size: 16px; font-style: regular "> If you are a prospective graduate student interested in working with me, please do the following:
+>   - Send me a brief [email](kdasala@purdue.edu) with your CV attached as a PDF. If you are debating between M.S. or Ph.D., please include that in your email.
+Apply to the ECE program at Purdue by following the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241). The application deadline is December 1. Include my name (Keerthi Dasala) in your application.
+>   - If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects. </span>
 ---
 
-My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for next-generation wireless communication and sensing systems with a focus on millimeter-wave and Terahertz networks. The research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. 
+My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems with a focus on Millimeter-wave and Terahertz networks. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine both theory and experimentation to motivate, develop, and validate my research, with the hope of having an impact on real-world wireless systems.
 
 I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
 
