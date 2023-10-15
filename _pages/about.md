@@ -44,7 +44,6 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
     </div>
 </div>
 </div>
--->
 
 <p class="announcement" style="background-color: #c3ddf5; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:black">
   <h3><u>Prospective Students:</u></h3>
@@ -52,10 +51,21 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
       <p>If you are a prospective graduate student interested in joining our lab, please do the following:</p>
       <ul>
         <li>Send me a brief <a target="_blank" href="kdasala@purdue.edu"><u> email</u></a> with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email.</li>
-        <li><a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241">Apply</a> to the ECE program at Purdue by following the Purdue application process. The application deadline is December 1 Include my name in your application.</li>
+        <li><a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241">Apply</a> to the ECE program at Purdue by following the Purdue application process. The application deadline is December 1. Include my name in your application.</li>
       </ul>
-      <p> If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects.</p> </p>
-<hr>
+      If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects.</p> </p>
+
+-->
+
+<p class="announcement" style="background-color: #c3ddf5; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
+We are currently recruiting students to join the WISDOM Networks Lab at Purdue. If you are a prospective graduate student interested in joining our lab, please do the following:</p>
+      <ul>
+        <li>Send me a brief <a target="_blank" href="kdasala@purdue.edu"><u> email</u></a> with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email.</li>
+        <li><a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241">Apply</a> to the ECE program at Purdue by following the Purdue application process. The application deadline is December 1. Include my name in your application.</li>
+      </ul>
+      If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects.
+      </p>
+
 
 <!--If you are a prospective graduate student interested in working with me, please do the following:
 * Send me a brief [email](kdasala@purdue.edu) with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email. Apply to the ECE program at Purdue by following the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241). The application deadline is December 1. Include my name in your application.
