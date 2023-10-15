@@ -23,50 +23,25 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 
-
-<hr>
-<p class="announcement" style="background-color: #fcf8e3; padding: 7px; border: 1px #faebcc; border-radius: 10px; font-size: 16px;font-color:#0d6efd">  
-  📣 I'm an incoming Assistant Professor at Purdue University, in the <a target="_blank" href="https://engineering.purdue.edu/ECE">Elmore Family School of Electrical and Computer Engineering</a>, starting in Spring 2024. I am looking for highly motivated Ph.D. candidates who are excited about working at the intersection of wireless communication and sensing systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity.</p>
-
-<!--
-<div class="summary">
-      <div class="summary-header">Prospective Students</div>
-      <div class="summary-body">
-
-<div>
-      <p>We are currently recruiting students to join the WISDOM Networks Lab at Purdue.</p>
-      <p>If you are a prospective graduate student interested in joining our lab, please do the following:</p>
-      <ul>
-        <li>Send me a brief <a target="_blank" href="kdasala@purdue.edu"><u> email</u></a> with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email.</li>
-        <li><a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241">Apply</a> to the ECE program at Purdue by following the Purdue application process. The application deadline is December 1 Include my name in your application.</li>
-      </ul>
-      <p> If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects.</p>
-    </div>
-</div>
-</div>
--->
-<p class="announcement" style="background-color: #c3ddf5; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:black">
+<div class="announcement"style="background-color: #c3ddf5; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
+<p>
+<p class="announcement" style="background-color: #fcf8e3; padding: 7px; border: 1px #faebcc; border-radius: 10px; font-size: 16px">  
+  📣 I'm an incoming Assistant Professor at Purdue University, in the <a target="_blank" href="https://engineering.purdue.edu/ECE">Elmore Family School of Electrical and Computer Engineering</a>, starting in Spring 2024. </p>
+  
   <h3><u>Prospective Students:</u></h3>
-  <p>We are currently recruiting students to join the WISDOM Networks Lab at Purdue.</p>
-      <p>If you are a prospective graduate student interested in joining our lab, please do the following:</p>
+  <p>We are currently recruiting hardworking individuals who are interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our  <i>WISDOM </i> Networks Lab at Purdue. </p> 
+  
+ <p> If you are a prospective graduate student interested in joining our lab, please do the following:</p>
       <ul>
         <li>Send me a brief <a target="_blank" href="kdasala@purdue.edu"><u> email</u></a> with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email.</li>
         <li><a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241">Apply</a> to the ECE program at Purdue by following the Purdue application process. The application deadline is December 1. Include my name in your application.</li>
       </ul>
      <p> If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects.</p> 
      </p>
+     </p>
+</div>
+<hr>
 
-<hr>
-<hr>
-<p class="announcement" style="background-color: #c3ddf5; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
-We are currently recruiting students to join the WISDOM Networks Lab at Purdue. If you are a prospective graduate student interested in joining our lab, please do the following:
-      <ul>
-        <li>Send me a brief <a target="_blank" href="kdasala@purdue.edu"><u> email</u></a> with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email.</li>
-        <li><a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241">Apply</a> to the ECE program at Purdue by following the Purdue application process. The application deadline is December 1. Include my name in your application.</li>
-      </ul>
-      If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects.
-      </p>
-<hr>
 
 <!--If you are a prospective graduate student interested in working with me, please do the following:
 * Send me a brief [email](kdasala@purdue.edu) with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email. Apply to the ECE program at Purdue by following the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241). The application deadline is December 1. Include my name in your application.
