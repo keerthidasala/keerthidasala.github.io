@@ -12,6 +12,9 @@ main:
   - title: "Service"
     url: /service/
 
+  - title: "Research Lab"
+    url: /lab/
+    
   #   - title: "Portfolio"
   #     url: /portfolio/
 
