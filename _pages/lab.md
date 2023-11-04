@@ -1,5 +1,5 @@
 ---
-permalink: /advising/
+permalink: /lab/
 title: "Join our Lab"
 author_profile: true
 ---
