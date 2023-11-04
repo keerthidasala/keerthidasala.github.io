@@ -23,8 +23,8 @@ author_profile: true
   * Intro to Communication Networks (ELEC 537) 
   * Intro to Random Processes (ELEC 533) 
   
- <!---**Pedagogical and Career Training**
-  * Center for Teaching Excellence Rice University, Spring 2020
+ <!---**Pedagogical and Career Training**--->
+  <!--- * Center for Teaching Excellence Rice University, Spring 2020
     * Research Communication Training Program (semester-long) 
     * Workshop on Active Learning Techniques for a more engaged Engineering Class
-    * Workshop on Strategic Career Design for the Peak Performing Professor--->
+    * Workshop on Strategic Career Design for the Peak Performing Professor --->
