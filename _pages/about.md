@@ -32,7 +32,7 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
   <p>We are currently recruiting hardworking individuals who are interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our <i>WISDOM </i> Networks Lab at Purdue. </p>
   <p> If you are a prospective graduate student interested in joining our lab, please do the following:</p>
   <ul>
-    <li>Send me a brief <a target="_blank" href="kdasala@purdue.edu">
+    <li>Send me a brief <a target="_blank" href="mailto:kdasala@purdue.edu">
         <u> email</u>
       </a> with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email. </li>
     <li>
