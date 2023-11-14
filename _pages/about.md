@@ -29,7 +29,7 @@ I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) 
 <hr>
 <div class="announcement" style="background-color: #c3ddf5; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
     <div class="announcement" style="background-color: #fff2cc; padding: 2px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
-  <p> 📣 I'm an incoming Assistant Professor at Purdue University, in the <a target="_blank" href="https://engineering.purdue.edu/ECE">Elmore Family School of Electrical and Computer Engineering</a>, starting in Spring 2024. I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) within Purdue ECE.</p></div>
+  <p> 📣 I'm an incoming Assistant Professor at Purdue University, in the <a target="_blank" href="https://engineering.purdue.edu/ECE">Elmore Family School of Electrical and Computer Engineering</a>, starting in Spring 2024. I direct the <a target="_blank" href="https://keerthidasala.github.io/WISDOM-Research-Lab/">WISDOM Research Lab</a> within Purdue ECE.</p></div>
   <h3>
     <u>Prospective Students:</u>
   </h3>
