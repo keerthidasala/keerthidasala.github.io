@@ -19,7 +19,10 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 
 Hello!
 
-I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department of Electrical and Computer Engineering in December 2022, where I was fortunate to be supervised by [Prof. Edward Knightly](https://knightly.rice.edu/) and was a member of [Rice Networks Group](http://networks.rice.edu). I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks. 
+I am Keerthi Dasala. I am an Assistant Professor at Purdue ECE. 
+I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) within Purdue ECE.
+<br>
+I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be supervised by [Prof. Edward Knightly](https://knightly.rice.edu/) and was a member of [Rice Networks Group](http://networks.rice.edu). I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks. 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
 <hr>
@@ -29,7 +32,7 @@ I am Keerthi Dasala. I obtained my Ph.D. from Rice University in the Department 
   <h3>
     <u>Prospective Students:</u>
   </h3>
-  <p>We are currently recruiting hardworking individuals who are interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our <i>WISDOM </i> Networks Lab at Purdue. </p>
+  <p>We are currently recruiting hardworking individuals who are interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) at Purdue. </p>
   <p> If you are a prospective graduate student interested in joining our lab, please do the following:</p>
   <ul>
     <li>Send me a brief <a target="_blank" href="mailto:kdasala@purdue.edu">
