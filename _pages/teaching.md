@@ -15,8 +15,8 @@ author_profile: true
   * Signals and Systems (ELEC 242) Spring 2020
   * Introduction to Deep Learning (ELEC 576), Fall 2019
   * Introduction to Communication Networks (ELEC 537), Fall 2018
- <!---  * Digital Communications (ELEC 430), Spring 2017
- * Computer Vision - Fall 2016--->
+ <!---  * Digital Communications (ELEC 430), Spring 2017 --->
+<!---   * Computer Vision - Fall 2016 --->
   
 ## Guest Lecturer: Rice, ECE
   * Modern Communication Theory and Practice (ELEC 551) Rice University, Fall 2020
