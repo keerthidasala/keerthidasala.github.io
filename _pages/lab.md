@@ -3,13 +3,13 @@ permalink: /lab/
 title: "Join our Lab"
 author_profile: true
 ---
-We are always looking for motivated, creative, hardworking individuals who are interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our group. 
-Please visit our [group page]() for details.
+We are always looking for motivated, creative, hardworking individuals interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our group. 
+Please visit our [group website](https://keerthidasala.github.io/WISDOM-Research-Lab/) for details.
 
 **Graduate Students:**
 
 We have several positions open for Ph.D. and M.S. students. Please apply to the ECE graduate program at Purdue and mention my name in your application. 
-If you are already a graduate student at Purdue and you are interested in joining our group, please email me your CV and describe your research interest and experience to date.
+If you are already a graduate student at Purdue and are interested in joining our group, please email me your CV and describe your research interest and experience.
 
 
 **Undergraduate Students:**
