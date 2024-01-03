@@ -41,7 +41,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "keerthi.dasala@rice.edu"
+    email                : "kdasala@purdue.edu"
   generatedFields:
     date:
       type               : "date"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Keerthi Dasala"
   avatar           : "IMG_2321.jpeg"
-  bio              : "Incoming Assistant Professor, Purdue ECE"
+  bio              : "Assistant Professor, Purdue ECE"
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   pubmed          : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
