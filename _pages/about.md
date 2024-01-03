@@ -17,19 +17,19 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 
 ## About me
 
-Hello!
 
-I am Keerthi Dasala. I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be supervised by [Prof. Edward Knightly](https://knightly.rice.edu/) and was a member of [Rice Networks Group](http://networks.rice.edu). I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks. 
+<!--I am Keerthi Dasala. I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be supervised by [Prof. Edward Knightly](https://knightly.rice.edu/) and was a member of [Rice Networks Group](http://networks.rice.edu). I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks.--> 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
-<!--I am an Assistant Professor at Purdue University, in the [Elmore Family School of Electrical and Computer Engineering](href="https://engineering.purdue.edu/ECE). 
+I am an Assistant Professor at Purdue University, in the [Elmore Family School of Electrical and Computer Engineering](href="https://engineering.purdue.edu/ECE). I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be supervised by [Prof. Edward Knightly](https://knightly.rice.edu/)
+<br>
 I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) within Purdue ECE.
-<br>-->
+<br>
 
 <hr>
 <div class="announcement" style="background-color: #c3ddf5; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
-    <div class="announcement" style="background-color: #fff2cc; padding: 2px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
-  <p> 📣 I'm an incoming Assistant Professor at Purdue University, in the <a target="_blank" href="https://engineering.purdue.edu/ECE">Elmore Family School of Electrical and Computer Engineering</a>, starting in Spring 2024. I direct the <a target="_blank" href="https://keerthidasala.github.io/WISDOM-Research-Lab/">WISDOM Research Lab</a> within Purdue ECE.</p></div>
+ <!--   <div class="announcement" style="background-color: #fff2cc; padding: 2px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
+  <p> 📣 I'm an incoming Assistant Professor at Purdue University, in the <a target="_blank" href="https://engineering.purdue.edu/ECE">Elmore Family School of Electrical and Computer Engineering</a>, starting in Spring 2024. I direct the <a target="_blank" href="https://keerthidasala.github.io/WISDOM-Research-Lab/">WISDOM Research Lab</a> within Purdue ECE.</p></div>-->
   <h3>
     <u>Prospective Students:</u>
   </h3>
