@@ -6,7 +6,11 @@ author_profile: true
 We are always looking for motivated, creative, hardworking individuals interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our group. 
 Please visit our group website [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) for details.
 
+<!-- ![Lab](../images/WISDOMLabLogo.jpeg)--> 
+<div style="width:100px; height:50px">
 ![Lab](../images/WISDOMLabLogo.jpeg)
+</div>
+
 
 Our group’s research projects are interdisciplinary, and the candidates are expected to have a solid background in network/mobile systems, a strong motivation towards studying multidisciplinary knowledge, and be willing to commit to years of concentrated work.
 
