@@ -21,11 +21,20 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 <!--I am Keerthi Dasala. I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be supervised by [Prof. Edward Knightly](https://knightly.rice.edu/) and was a member of [Rice Networks Group](http://networks.rice.edu). I am currently working as a Senior Research Engineer at Qualcomm Wireless R&D towards designing and developing next-generation wireless networks.--> 
 <!-- <h3>  I am on the academic job market. Interested in Tenure-Track positions in broad area of wireless communication and networking. </h3> -->
 
-I started as an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) as of January 2024. I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be advised by [Prof. Edward Knightly](https://knightly.rice.edu/).
+<!--I started as an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) as of January 2024. I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be advised by [Prof. Edward Knightly](https://knightly.rice.edu/).
+<br>--> 
+I am an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE). I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in  December 2022, advised by [Prof. Edward Knightly](https://knightly.rice.edu/).
 <br>
+
 
 I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) within Purdue ECE.
 <br>
+
+My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems, focusing on Millimeter-wave and Terahertz networks. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine theory and experimentation to motivate, develop, and validate my research, with the hope of impacting real-world wireless systems.
+
+I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
+
+Refer [Research](./research) for current research directions.
 
 <hr>
 <div class="announcement" style="background-color: #f6ede4 ; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
@@ -38,7 +47,7 @@ I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) 
   <p> If you are a prospective graduate student interested in joining our lab, please do the following:</p>
   <ul>
     <li>Send me a brief <a target="_blank" href="mailto:kdasala@purdue.edu">
-        <u> email</u>
+        email 
       </a> with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email. </li>
     <li>
       <a href="https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241">Apply</a> to the ECE program at Purdue by following the Purdue application process. The application deadline is December 1. Include my name in your application.
@@ -53,11 +62,7 @@ I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) 
 * Send me a brief [email](kdasala@purdue.edu) with your CV attached. If you are debating between M.S. or Ph.D., please include that in your email. Apply to the ECE program at Purdue by following the [Purdue application process](https://www.purdue.edu/gradschool/admissions/how-to-apply/index.html?_ga=2.136994928.1145749734.1696568337-1436000790.1675876241). The application deadline is December 1. Include my name in your application.
 * If you are currently an undergraduate or master’s student at Purdue interested in doing research during the academic year or over the summer, please email me, and we can arrange a time to meet and discuss potential projects.-->
 
-My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems, focusing on Millimeter-wave and Terahertz networks. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine theory and experimentation to motivate, develop, and validate my research, with the hope of impacting real-world wireless systems.
 
-I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
-
-Refer [Research](./research) for current research directions.
 
 <!-- Our research covers broadly next-generation wireless networks, wireless sensing, and smart device systems. We are interested in the design, implementation, and experimental evaluation of novel technologies to enable ultra-fast smart robust adaptable, and secure wireless systems. Our research is multi-disciplinary cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems.  -->
 
