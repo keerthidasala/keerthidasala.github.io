@@ -30,7 +30,7 @@ I am an Assistant Professor at Purdue University in the [Elmore Family School of
 I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) within Purdue ECE.
 <br>
 
-My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems, focusing on Millimeter-wave and Terahertz networks. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine theory and experimentation to motivate, develop, and validate my research, with the hope of impacting real-world wireless systems.
+My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems, focusing on the Millimeter-wave and Terahertz spectrum. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine theory and experimentation to motivate, develop, and validate my research, with the hope of impacting real-world wireless systems.
 
 I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
 
