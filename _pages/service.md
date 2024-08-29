@@ -6,8 +6,8 @@ author_profile: true
 
 ## Technical Program Committee 
 
-- IEEE INFOCOM 2024
-- ACM MobiCom 2024
+- IEEE INFOCOM 2024,2025
+- ACM MobiCom 2024,2025
 - IEEE DySPAN 2024
 - ACM MobiHoc 2024
 - IEEE WiOpt 2024
