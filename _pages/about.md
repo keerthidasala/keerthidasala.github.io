@@ -23,18 +23,18 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 
 <!--I started as an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) as of January 2024. I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be advised by [Prof. Edward Knightly](https://knightly.rice.edu/).
 <br>--> 
-I am an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE). I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in  December 2022, advised by [Prof. Edward Knightly](https://knightly.rice.edu/).
-<br>
-
-
-I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) within Purdue ECE.
-<br>
+I am an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE). I direct the [WISDOM Lab](https://keerthidasala.github.io/WISDOM-Research-Lab/) within Purdue ECE.
 
 My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems, focusing on the Millimeter-wave and Terahertz spectrum. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine theory and experimentation to motivate, develop, and validate my research, with the hope of impacting real-world wireless systems.
 
-I am also interested all aspects of wireless security, robotic wireless networks, internet of things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
+I am also interested in all aspects of wireless security, robotic wireless networks, the internet of Things, cellular & UAV/drone networks, AI for network management and control, mathematical modeling, and protocol design for next-generation wireless networks (5G+, 6G and beyond), and information theory and coding.
 
 Refer [Research](./research) for current research directions.
+<br>
+
+Before joining Purdue, I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in  December 2022, advised by [Prof. Edward Knightly](https://knightly.rice.edu/).
+<br>
+
 
 <hr>
 <div class="announcement" style="background-color: #f6ede4 ; padding: 7px; border: 1px #295bcc; border-radius: 10px; font-size: 16px;font-color:#000000">
