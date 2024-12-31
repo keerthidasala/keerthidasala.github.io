@@ -26,15 +26,16 @@ These techniques aim to enable adaptable and resilient mm-Wave networks that can
 
 ## Next-Generation Wireless Networks 
 Our research advances wireless technologies to meet the demands of high-speed connectivity, dense user environments, and emerging applications. By leveraging millimeter-wave (mmWave) and terahertz (THz) frequency bands, we address critical challenges of scalability, reliability, and mobility in next-generation wireless networks.
-  * Robust and Scalable Millimeter-Wave Networks
+  * **Robust and Scalable Millimeter-Wave Networks**
     <div class="float: right"></div> <img align=" center;" src="../images/Scenario_mmwave_long.jpg" width="400" height="250">
+  
   Today, the GHz-scale unlicensed spectrum coupled with directional antennas can support Gbps data
   rates in point-to-point links. Next-generation devices aim to scale to dense user populations via the
   concurrent transmission of multiple independent data streams, i.e., downlink and uplink multi-user
   MIMO. However, while the utilization of high frequencies and wide spectrum represents a significant advancement in achieving higher   data rates, the challenge of ensuring robustness in the presence of human blockage and client mobility remains a significant  
  obstacle for highly directional links. 
  To address these challenges, we are actively engaged in the theoretical and experimental development of novel cross-layer techniques. 
-  * Terahertz Communication and Sensing Systems
+ * **Terahertz Communication and Sensing Systems**
     <div class="float: right"></div> <img align=" center;" src="../images/MU_THz.png" width="400" height="250">
 
   Scaling spectrum access towards terahertz will provide a key ingredient to realize the sixth generation
