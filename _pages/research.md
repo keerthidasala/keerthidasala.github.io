@@ -56,6 +56,7 @@ In the rapidly advancing world of wirelessly interconnected devices, security ha
 
 ## Agricultural Sensing and Smart Farming
 <div class="float: right"> </div> <img src="../images/smart-farming-management.jpg" width="400" height="300"/>
+
 Our research focuses on designing wireless, battery-free sensing technologies to monitor critical environmental factors such as soil moisture, leaf wetness, and biomass. These innovations not only support sustainable farming and aquaculture practices but also enable early detection and response to natural disasters, including wildfires, hurricanes, and droughts. Unlike traditional satellite-based methods, we emphasize large-scale, on-site measurements through emerging battery-free platforms and drone technologies. By integrating advanced sensing modalities like mmWave, terahertz (THz), and optical systems, we aim to collect high-resolution, actionable data. This approach enhances predictive capabilities and empowers real-time decision-making, driving smarter, more sustainable agricultural practices.
 
 ## AI/ML for Network Management and Control 
