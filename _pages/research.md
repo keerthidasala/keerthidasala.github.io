@@ -3,7 +3,6 @@ permalink: /research/
 title: "Research Areas"
 author_profile: true
 ---
-<div style="text-align: justify"> </div>
 
 <!--Our research lies at the intersection of next-generation wireless networks, wireless
 sensing, and smart device systems. We are particularly interested in creating agile, adaptable, smart, secure, and
