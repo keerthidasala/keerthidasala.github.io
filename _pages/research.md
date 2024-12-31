@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research Areas"
 author_profile: true
 ---
-<div style="text-align: justify"> your-text-here </div>
+<div style="text-align: justify">
 
 <!--Our research lies at the intersection of next-generation wireless networks, wireless
 sensing, and smart device systems. We are particularly interested in creating agile, adaptable, smart, secure, and
@@ -64,3 +64,4 @@ Our research focuses on designing wireless, battery-free sensing technologies to
 
 AI and ML are pivotal in managing the complex demands of 5G and beyond, ensuring network performance aligns with the evolving needs of data-intensive applications. By harnessing these technologies, network operators attain unparalleled levels of automation, scalability, and intelligence in network management. Our research is dedicated to developing AI and ML frameworks for autonomously analyzing extensive network data and creating intelligent systems that optimize performance, adapt to dynamic environments, and enhance user experiences. 
 <!--predicting issues, and dynamically optimizing network parameters for various applications.-->
+</div>
