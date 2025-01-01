@@ -4,7 +4,7 @@ collection: gradstudents
 type: "PhD"
 started: "Summer '24"
 ended: "Present"
-permalink: /students/junjie
+permalink: /gradstudents/junjie
 location: "West Lafayette, USA"
 ---
 

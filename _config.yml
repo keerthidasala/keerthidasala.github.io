@@ -225,10 +225,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _students
+  # _gradstudents
   - scope:
       path: ""
-      type: students
+      type: gradstudents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _undergradstudents
+  - scope:
+      path: ""
+      type: undergradstudents
     values:
       layout: single
       author_profile: true
