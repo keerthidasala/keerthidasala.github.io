@@ -8,6 +8,8 @@ permalink: /students/junjie
 location: "West Lafayette, USA"
 ---
 
+![picture](../images/members/junjie.jpg)
+
 **About Junjie:**
 
 Junjie obtained her bachelor’s degree in Telecommunication Engineering from Xi’an Jiaotong-Liverpool University.
