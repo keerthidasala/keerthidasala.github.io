@@ -1,7 +1,9 @@
 ---
 title: "Junjie Wu"
 collection: students
-type: "PhD (Summer '23 - Present)"
+type: "PhD"
+started: "Summer '23"
+ended: "Present"
 permalink: /students/junjie
 location: "West Lafayette, USA"
 ---
