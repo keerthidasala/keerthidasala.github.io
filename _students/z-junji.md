@@ -8,8 +8,6 @@ permalink: /students/junjie
 location: "West Lafayette, USA"
 ---
 
-Topic: Improving THz through LWA
-
 **About Junjie:**
 
 Junjie obtained her bachelor’s degree in Telecommunication Engineering from Xi’an Jiaotong-Liverpool University.
