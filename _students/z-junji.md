@@ -8,7 +8,7 @@ permalink: /students/junjie
 location: "West Lafayette, USA"
 ---
 
-![picture](../images/members/junjie.jpg)
+<img src="../images/members/junjie.jpg" width="400" height="300"/>
 
 **About Junjie:**
 
