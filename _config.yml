@@ -185,7 +185,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  students:
+  gradstudents:
+    output: true
+    permalink: /:collection/:path/
+  undergradstudents:
     output: true
     permalink: /:collection/:path/
   talks:
