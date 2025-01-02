@@ -1,13 +1,13 @@
 # main links links  
 main:
-  - title: "Research"
+  - title: "WISDOM Lab"
     url: /research/
+
+  - title: "Members"
+    url: /students/
 
   - title: "Publications"
     url: /publications/
-
-  - title: "Students"
-    url: /students/
     
   - title: "Teaching"
     url: /teaching/
