@@ -23,7 +23,7 @@ Previously, I have completed my Masters in Electrical Engineering from IISc Bang
 
 <!--I started as an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) as of January 2024. I received my Ph.D. from Rice University in the [Department of Electrical and Computer Engineering](https://eceweb.rice.edu/) in December 2022, where I was fortunate to be advised by [Prof. Edward Knightly](https://knightly.rice.edu/).
 <br>--> 
-I am an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE). I direct the [WISDOM Lab](https://keerthidasala.github.io) within Purdue ECE.
+I am an Assistant Professor at Purdue University in the [Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE). I direct the [WISDOM Lab](https://keerthidasala.github.io/research) within Purdue ECE.
 
 My research broadly focuses on theoretical analysis and modeling to hardware implementations and experimental evaluations of architectures, protocols, and applications for Next-Generation wireless communication and sensing systems, focusing on the Millimeter-wave and Terahertz spectrum. The research is multi-disciplinary, cutting across electromagnetics and antennas to protocol design, algorithm, signal processing, and end-to-end systems. I strive to combine theory and experimentation to motivate, develop, and validate my research, with the hope of impacting real-world wireless systems.
 
@@ -43,7 +43,7 @@ Before joining Purdue, I received my Ph.D. from Rice University in the [Departme
   <h3>
     <u>Prospective Students:</u>
   </h3>
-  <p>We are currently recruiting hardworking individuals who are interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our <a target="_blank" href="https://keerthidasala.github.io/WISDOM-Research-Lab/">WISDOM Lab</a> at Purdue ECE. </p>
+  <p>We are currently recruiting hardworking individuals who are interested in working in the areas of wireless systems, next-generation networks (6G and beyond), wireless security, and smart wireless connectivity to join our <a target="_blank" href="https://keerthidasala.github.io/research/">WISDOM Lab</a> at Purdue ECE. </p>
   <p> If you are a prospective graduate student interested in joining our lab, please do the following:</p>
   <ul>
     <li>Send me a brief <a target="_blank" href="mailto:kdasala@purdue.edu">
