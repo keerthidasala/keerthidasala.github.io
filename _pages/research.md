@@ -1,8 +1,11 @@
 ---
 permalink: /research/
-title: "Research Areas"
+title: "WISDOM Lab"
 author_profile: true
 ---
+Welcome to the WISDOM Lab at Purdue!
+
+<div class="float: right"></div> <img align=" center;" src="../images/WISDOMLabLogo.jpg" width="400" height="250">
 
 <!--Our research lies at the intersection of next-generation wireless networks, wireless
 sensing, and smart device systems. We are particularly interested in creating agile, adaptable, smart, secure, and
