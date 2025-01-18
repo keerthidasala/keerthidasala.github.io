@@ -3,8 +3,8 @@ main:
   - title: "WISDOM Lab"
     url: /research/
 
-  - title: "Members"
-    url: /students/
+  #- title: "Members"
+  #  url: /students/
 
   - title: "Publications"
     url: /publications/
